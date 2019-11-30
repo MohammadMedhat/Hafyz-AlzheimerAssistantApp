@@ -1,6 +1,6 @@
 ## Hafyz - Smart Android App and is targeting Alzheimer's Disease Patients!
 
-## The App and it has three features:
+## The App will have three features:
 
 ### 1- Face recognition
 In this feature, we will use machine learning and computer vision to build a face recognizer, that help AD patient to recognize their family members that they forgot frequently!
