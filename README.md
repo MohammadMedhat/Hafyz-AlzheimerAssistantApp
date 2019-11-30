@@ -1,4 +1,4 @@
-## Hafyz - Smart Android App and is targeting Alzheimer's Disease Patients!
+## Hafyz - Smart Android App and it target Alzheimer's Disease Patients!
 
 ## The App will have three features:
 
