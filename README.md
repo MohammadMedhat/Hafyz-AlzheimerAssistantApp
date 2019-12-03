@@ -1,14 +1,22 @@
-## Hafyz - Smart Android App and it targets Alzheimer's Disease Patients!
+# Hafyz - Android App for Alzheimer Patients
 
-## The App will have three features:
+Hafyz is a smart Android app designed to help Alzheimer Patients and their families by using machine learning algorithms such as computer vision (CV) and natural language processing (NLP). 
+It helps the patients by reminding them of faces, names, locations, and answers they may fail to recall on their own otherwise. 
+One way the app helps the family is by keeping track of the location of their patient family member at all times.
 
-### 1- Face recognition
-In this feature, we will use machine learning and computer vision to build a face recognizer, that help AD patient to recognize their family members that they forgot frequently!
-This feature will use a mobile camera to recognize people in the images and people in front of the patient directly!   
+## App Features
 
-### 2- Memory & Attention
-This the second feature, it will be the big part! We will use the attention mechanism in deep learning and memory storage to record what patients say and people around them say, the App will record all this speech data and convert it to text, in this phase we will use Natural Language Processing to analyze text and extract useful information such as events and some advice from their Doctor for time of treatments and time of exercises .. etc, then it convert important things to voice and tell the patient about important events!
+The App will have three main features:
 
-### 3- GPS Tracking
-In this feature, we will build a GPS tracker to track patient in their walks and record the pathway to help them know how to return home in case they forgot the way, also it will notify their family where is he/she in case they lost!
+### Memory & Attention
+We will use the Natural Language Processing (NLP) to record and analyze what patients and surrounding people say. The app will record all this speech data  to extract useful information such as events and some advice from their Doctor for time of treatments and time of exercises .. etc, then it convert important things to voice and tell the patient about important events.
 
+### Face recognition
+We will use computer vision to build a face recognizer that helps AD patient to recognize their family members and acquaintances that they forgot frequently by using their Android smartphone to recognize people in images and people present with the patient.
+
+### GPS Tracking
+We will build a GPS tracker to track patient in their walks and record the pathway to help them know how to return home in case they forgot the way. It will also notify their family where the patient is in case they get lost.
+
+## Who we are
+
+We are a group of undergraduate students at the department of Computer and System Engineering in Minia University in Egypt working on this app as the technical part of our graduation project. 
