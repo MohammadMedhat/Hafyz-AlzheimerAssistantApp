@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="377dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_image_black_24dp"
+        />
+    <Button
+        android:id="@+id/btnTakePio"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+        android:background="@android:color/holo_red_light"
+        android:text="takePicture"
+        android:onClick="takePicture"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/bt_save"
+        android:layout_width="match_parent"
+        android:layout_height="89dp"
+        android:background="@android:color/holo_blue_dark"
+        android:text="save"
+        android:onClick="savePicture"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>
